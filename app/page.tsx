@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <main className='bg-red-500'>
+    <main>
       <h1>API Generator Web App</h1>
     </main>
   )
